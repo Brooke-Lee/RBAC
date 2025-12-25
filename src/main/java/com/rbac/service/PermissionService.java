@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 权限业务接口
- * @author Little Prince 李文攀
+ * @author Little Prince 
  * 2018年6月18日下午3:12:56
  */
 public interface PermissionService {
