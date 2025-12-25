@@ -2,7 +2,7 @@ package com.rbac.bean;
 
 /**
  * 用户实体类
- * @author Little Prince 李文攀
+ * @author Little Prince 
  * 2018年6月17日下午8:50:42
  */
 public class User {
