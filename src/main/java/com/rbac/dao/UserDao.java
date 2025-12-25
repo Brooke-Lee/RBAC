@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Select;
 
 /**
  * 用户dao接口
- * @author Little Prince 李文攀
+ * @author Little Prince 
  * 2018年6月18日下午3:15:16
  */
 public interface UserDao {
