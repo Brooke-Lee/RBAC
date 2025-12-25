@@ -10,7 +10,7 @@ import org.apache.ibatis.annotations.Select;
 
 /**
  * 权限dao接口
- * @author Little Prince 李文攀
+ * @author Little Prince 
  * 2018年6月18日下午3:14:56
  */
 public interface PermissionDao {
