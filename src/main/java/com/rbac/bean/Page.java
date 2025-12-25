@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * 分页对象
- * @author Little Prince 李文攀
+ * @author Little Prince 
  * 2018年6月18日上午7:02:17
  */
 public class Page<T> {
