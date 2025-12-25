@@ -1,4 +1,4 @@
-package com.rbac.service;
+  package com.rbac.service;
 
 import com.rbac.bean.Role;
 
@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * 角色业务接口
- * @author Little Prince 李文攀
+ * @author Little Prince 
  * 2018年6月18日下午3:12:37
  */
 public interface RoleService {
