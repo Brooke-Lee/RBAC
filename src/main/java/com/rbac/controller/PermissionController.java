@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * 权限控制器
- * @author Little Prince 李文攀
+ * @author Little Prince 
  * 2018年6月18日下午12:13:25
  */
 @Controller
