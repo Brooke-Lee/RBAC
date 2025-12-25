@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * 调度控制器
- * @author Little Prince 李文攀
+ * @author Little Prince 
  * 2018年6月18日下午5:18:57
  */
 @Controller
