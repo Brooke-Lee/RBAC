@@ -2,7 +2,7 @@ package com.rbac.bean;
 
 /**
  * 角色实体类
- * @author Little Prince 李文攀
+ * @author Little Prince
  * 2018年6月18日上午5:41:01
  */
 public class Role {
